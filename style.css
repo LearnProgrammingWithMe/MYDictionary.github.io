@@ -19,6 +19,9 @@ h2{
     nav .brand-logo {
         font-size: 1rem;
     }
+    body{
+        background-color: red;
+    }
 }
 
 .form_wrap{
