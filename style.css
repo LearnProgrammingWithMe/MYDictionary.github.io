@@ -14,14 +14,14 @@ h2{
     text-align: center;
     font-size: 36px;
 }
-
-@media (max-width: 600px) {
-    nav .brand-logo {
+ nav .brand-logo {
         font-size: 1rem;
+ }
+@media (min-width: 600px) {
+    nav .brand-logo {
+        font-size: 2rem;
     }
-    body{
-        background-color: red;
-    }
+
 }
 
 .form_wrap{
