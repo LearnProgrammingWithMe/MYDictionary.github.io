@@ -46,6 +46,9 @@ body{
 background-color: #101b32;
 color: white;
 }
+p.def{
+color: #fff !important;
+}
 }
 .loading{
     display: none;
