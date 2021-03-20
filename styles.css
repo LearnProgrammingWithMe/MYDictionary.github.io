@@ -41,7 +41,7 @@ section.data {
     margin-top: 20px;
     text-align: center;
 }
-media (max-width: 600px) {
+@media (max-width: 600px) {
 body{
 background-color: #101b32;
 color: white;
