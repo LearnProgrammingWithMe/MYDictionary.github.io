@@ -49,6 +49,9 @@ color: white;
 p.def{
 color: #fff !important;
 }
+input#input{
+color: red :important;
+}
 }
 .loading{
     display: none;
